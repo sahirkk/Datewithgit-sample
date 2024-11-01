@@ -1,4 +1,8 @@
 hi . iam sahir .
 
 can we meet tomorrow
+<<<<<<< HEAD
 no ,i can't
+=======
+yes we can.
+>>>>>>> feature
